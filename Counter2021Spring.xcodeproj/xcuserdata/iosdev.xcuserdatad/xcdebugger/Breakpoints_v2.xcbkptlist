@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0684BD81-885B-4F33-913B-622A3039912D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "500E527D-E476-4B40-BFED-8B89025A9435"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Counter2021Spring/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "500E527D-E476-4B40-BFED-8B89025A9435 - 63242a9aebde75b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter2021Spring.ViewController.increasementButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Counter2021Spring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/xCodeProject/Counter2021Spring/Counter2021Spring/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "500E527D-E476-4B40-BFED-8B89025A9435 - 7a868d100da4a547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter2021Spring.ViewController.increasementButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Counter2021Spring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/xCodeProject/Counter2021Spring/Counter2021Spring/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "500E527D-E476-4B40-BFED-8B89025A9435 - af7dbdab1bc7d02f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter2021Spring.ViewController.increasementButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Counter2021Spring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/xCodeProject/Counter2021Spring/Counter2021Spring/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "500E527D-E476-4B40-BFED-8B89025A9435 - 3fd659a14b956f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter2021Spring.ViewController.increasementButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Counter2021Spring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/xCodeProject/Counter2021Spring/Counter2021Spring/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "500E527D-E476-4B40-BFED-8B89025A9435 - 2712fb5ee8ae283a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter2021Spring.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Counter2021Spring.ViewController"
+                  moduleName = "Counter2021Spring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/xCodeProject/Counter2021Spring/Counter2021Spring/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "671">
+               </Location>
+               <Location
+                  uuid = "500E527D-E476-4B40-BFED-8B89025A9435 - 1c065da3abf7d216"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter2021Spring.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Counter2021Spring.ViewController&gt;"
+                  moduleName = "Counter2021Spring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/xCodeProject/Counter2021Spring/Counter2021Spring/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
